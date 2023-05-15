@@ -34,7 +34,7 @@ The Histogram component displays a bar chart representing the 20 most frequently
 ![Screenshot (390)](https://github.com/Manishagupta766/Tales/assets/84488866/9f70f757-ca56-49a1-8d20-1ab10fff4522)
 
 
-###ExportHistogramData
+#ExportHistogramData
 The ExportHistogramData component is a button that allows users to export the histogram data as a CSV file. It takes labels and data props, which represent the labels (words) and corresponding data (occurrence count) for the histogram. Clicking the button generates a CSV file with the word and occurrence count information.
 
 ###Content

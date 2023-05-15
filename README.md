@@ -1,4 +1,4 @@
-# <span style="font-size:larger-xl;">Project Description</span>
+# Project Description
 
 
 This project consists of a React application that fetches data from the Terribly Tiny Tales API and analyzes the text data to count word occurrences. It provides a user-friendly interface for viewing the word occurrences and visualizing them on a histogram.
@@ -24,7 +24,7 @@ https://6461d1578bb22116cd851cb4--ephemeral-alfajores-4b8aea.netlify.app/
 <span style="font-size:medium;">WordCount Component</span>
 The WordCount component is a React component that counts the occurrences of each word in a given text and displays the results. It also provides an option to visualize the 20 most occurring words on a histogram.
 
-### Usage
+## Usage
 
 To use these components in your React application, follow these steps:
 
@@ -45,35 +45,35 @@ Run your React application using npm start and view the results.
 ![Screenshot (384)](https://github.com/Manishagupta766/Tales/assets/84488866/ce4a6155-3ecc-405b-90c8-52cca5923460)
 
 
-### Main Component
+## Main Component
 The Main component renders the WordCount component and fetches data from the Terribly Tiny Tales API. It displays the fetched data in a sectioned format, with each section having a header and body.
 
 
 ![Screenshot (386)](https://github.com/Manishagupta766/Tales/assets/84488866/1d687b5a-06f7-43a0-98fd-6bac190cd25d)
-### Counting Word Occurrences: 
+## Counting Word Occurrences: 
 Initially, when no word count data is available, the component displays a button to count the occurrences of words in the provided text. Clicking the "Count Occurrences" button triggers the counting process, and the results are displayed in a list.
 
 ![Screenshot (388)](https://github.com/Manishagupta766/Tales/assets/84488866/60711505-abbf-4198-bb21-8134a76edbf7)
 
-#### Histogram Visualization:
+## Histogram Visualization:
  After the word occurrences have been counted, the component provides a button to show a histogram of the 20 most occurring words. Clicking the "Show Histogram" button reveals a bar chart visualizing the word occurrences. Additionally, an export button is available to download the histogram data as a CSV file.
 
 
 
-### Histogram Component
+## Histogram Component
 The Histogram component is responsible for rendering a bar chart using Chart.js library. It takes the word count data as a prop and dynamically updates the chart when the data changes. The top 20 most occurring words are displayed in the chart.
 
 ![Screenshot (390)](https://github.com/Manishagupta766/Tales/assets/84488866/9f70f757-ca56-49a1-8d20-1ab10fff4522)
 
-#### ExportHistogramData Component
+## ExportHistogramData Component
 The ExportHistogramData component is a button that, when clicked, generates a CSV file containing the data used to generate the histogram. Clicking the button triggers a download of the CSV file.
 
 
 
-### export default App;
+## export default App;
 In the example above, the WordCount component is used to count the word occurrences in the provided text, while the Content component fetches data from an API and displays it in sections.
 
-### Acknowledgments
+## Acknowledgments
 The components in this repository were developed using React, Chart.js, and Axios libraries. The project was created as a demonstration of word count and histogram functionalities for educational purposes.
 
 

@@ -21,6 +21,23 @@ Overall, this project demonstrates the use of React components, data fetching, d
 - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 
+
+### Libraries Used
+
+- "@testing-library/jest-dom": "^5.16.5"
+- "@testing-library/react": "^13.4.0"
+- "@testing-library/user-event": "^13.5.0"
+- "axios": "^1.4.0"
+- "chart.js": "^4.3.0"
+- "file-saver": "^2.0.5"
+- "react": "^18.2.0"
+- "react-chartjs-2": "^5.2.0"
+- "react-dom": "^18.2.0"
+- "react-router-dom": "^6.11.1"
+- "react-scripts": "5.0.1"
+- "web-vitals": "^2.1.4"
+
+
 # <span style="font-size:larger;">Deployed Link</span>
 
 https://6461d1578bb22116cd851cb4--ephemeral-alfajores-4b8aea.netlify.app/
@@ -86,20 +103,7 @@ The components in this repository were developed using React, Chart.js, and Axio
 
 
 
-# Libraries Used
 
-  ###`"@testing-library/jest-dom": "^5.16.5",`
-          ### `"@testing-library/react": "^13.4.0",`
-       ### `"@testing-library/user-event": "^13.5.0",`
-      ### ` "axios": "^1.4.0",`
-      ### `"chart.js": "^4.3.0",`
-      ### `"file-saver": "^2.0.5",`
-      ### `"react": "^18.2.0",`
-      ### ` "react-chartjs-2": "^5.2.0",`
-         ### `"react-dom": "^18.2.0",`
-         ### `"react-router-dom": "^6.11.1",`
-     ### `"react-scripts": "5.0.1",`
-      ### `"web-vitals": "^2.1.4"`
 
 
 # Getting Started with Create React App

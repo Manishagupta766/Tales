@@ -31,7 +31,7 @@ The WordCount component takes a textData prop, which is the input text to be ana
 
 ###Histogram
 The Histogram component displays a bar chart representing the 20 most frequently occurring words. It takes a wordCount prop, which is an object containing word occurrences. The component uses the Chart.js library to render the chart.
-(https://github.com/Manishagupta766/Tales/assets/84488866/9f70f757-ca56-49a1-8d20-1ab10fff4522)
+![Screenshot (390)](https://github.com/Manishagupta766/Tales/assets/84488866/9f70f757-ca56-49a1-8d20-1ab10fff4522)
 
 
 ###ExportHistogramData

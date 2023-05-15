@@ -15,7 +15,7 @@ Overall, this project demonstrates the use of React components, data fetching, d
 
 # <span style="font-size:larger;">Deployed Link</span>
 
-#`https://6461d1578bb22116cd851cb4--ephemeral-alfajores-4b8aea.netlify.app/`
+https://6461d1578bb22116cd851cb4--ephemeral-alfajores-4b8aea.netlify.app/
 
 
 

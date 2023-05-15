@@ -13,6 +13,18 @@ The ExportHistogramData component enhances the project by providing an option to
 
 Overall, this project demonstrates the use of React components, data fetching, data analysis, and visualization techniques. It provides a useful tool for analyzing word occurrences in a given text and presents the results in an intuitive and visually appealing manner.
 
+
+
+# Techonology Used
+
+
+[![Build Status](https://img.shields.io/travis/Html/repo.svg)](https://travis-ci.org/Html/repo)
+[![Code Coverage](https://img.shields.io/codecov/c/github/Css/repo.svg)](https://codecov.io/gh/CSS/repo)
+[![Version](https://img.shields.io/github/v/release/React.Js/repo.svg)](https://github.com/React.Js/repo/releases)
+
+
+Description of my project...
+
 # <span style="font-size:larger;">Deployed Link</span>
 
 https://6461d1578bb22116cd851cb4--ephemeral-alfajores-4b8aea.netlify.app/
@@ -100,14 +112,7 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
-# My Project
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![Code Coverage](https://img.shields.io/codecov/c/github/username/repo.svg)](https://codecov.io/gh/username/repo)
-[![Version](https://img.shields.io/github/v/release/username/repo.svg)](https://github.com/username/repo/releases)
-[![License](https://img.shields.io/github/license/username/repo.svg)](https://github.com/username/repo/blob/main/LICENSE)
-
-Description of my project...
 
 
 

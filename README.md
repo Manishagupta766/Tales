@@ -100,6 +100,16 @@ You may also see any lint errors in the console.
 
 ### `npm run build`
 
+# My Project
+
+[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
+[![Code Coverage](https://img.shields.io/codecov/c/github/username/repo.svg)](https://codecov.io/gh/username/repo)
+[![Version](https://img.shields.io/github/v/release/username/repo.svg)](https://github.com/username/repo/releases)
+[![License](https://img.shields.io/github/license/username/repo.svg)](https://github.com/username/repo/blob/main/LICENSE)
+
+Description of my project...
+
+
 
 
 

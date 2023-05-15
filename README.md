@@ -14,16 +14,12 @@ The ExportHistogramData component enhances the project by providing an option to
 Overall, this project demonstrates the use of React components, data fetching, data analysis, and visualization techniques. It provides a useful tool for analyzing word occurrences in a given text and presents the results in an intuitive and visually appealing manner.
 
 
+## Technologies Used
 
-# Techonology Used
+- ![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-
-[![Build Status](https://img.shields.io/travis/Html/repo.svg)](https://travis-ci.org/Html/repo)
-[![Code Coverage](https://img.shields.io/codecov/c/github/Css/repo.svg)](https://codecov.io/gh/CSS/repo)
-[![Version](https://img.shields.io/github/v/release/React.Js/repo.svg)](https://github.com/React.Js/repo/releases)
-
-
-Description of my project...
 
 # <span style="font-size:larger;">Deployed Link</span>
 

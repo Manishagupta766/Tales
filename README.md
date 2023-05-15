@@ -24,7 +24,7 @@ You may also see any lint errors in the console.
 ###Word Count and Histogram Components###
 This repository contains React components for counting word occurrences and displaying a histogram of the most frequently occurring words in a text. The components are designed to be used within a larger React application.
 
-###Components
+**Components**
 WordCount
 The WordCount component takes a textData prop, which is the input text to be analyzed. It displays the occurrences of each word in the text and provides a button to count the occurrences. Once the occurrences are counted, it offers another button to show a histogram of the 20 most occurring words.
 ![Screenshot (388)](https://github.com/Manishagupta766/Tales/assets/84488866/60711505-abbf-4198-bb21-8134a76edbf7)

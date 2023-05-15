@@ -1,0 +1,71 @@
+.main-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  p{
+ color: aliceblue;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: larger;
+  
+  }
+  
+  .section-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+    margin-top: 20px;
+  }
+  
+  .section-card {
+    background-color: #945c5c;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .section-header {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .section-header span {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .section-body {
+    padding: 30px;
+    flex-grow: 1;
+  }
+  
+  .section-body p {
+    margin: 0 0 10px 0;
+  }
+  
+  .section-card {
+    
+    border-radius: 10px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+    margin: 1rem;
+    padding: 1rem;
+    transition: transform 0.3s ease-out;
+  }
+  
+  .section-card:hover {
+    transform: translateX(10px);
+  }
+
+  .text{
+    font-size: larger;
+  }
+  
+  
+  
+ 
+  
+  

@@ -1,0 +1,61 @@
+.word-count-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .count-button {
+    background-color:#5dbea3;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .histogram-button {
+    background-color: #5dbea3;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin: 10px;
+    font-size: 16px;
+  }
+  
+  li:nth-child(even) {
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin: 10px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 10px;
+  }
+ 
